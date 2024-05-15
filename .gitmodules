@@ -1,0 +1,3 @@
+[submodule "world-api-mongodb"]
+	path = world-api-mongodb
+	url = https://github.com/repositoriosmv/world-api.git
